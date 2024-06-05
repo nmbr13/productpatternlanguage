@@ -40,10 +40,10 @@ features:
     image: "/images/service-3.png"
     content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
-      - "Bullet 1"
-      - "Bullet 2"
-      - "Bullet 3"
-      - "Bullet 4"
+      - "Bullet A"
+      - "Bullet B"
+      - "Bullet C"
+      - "Bullet D"
     button:
       enable: false
       label: ""
