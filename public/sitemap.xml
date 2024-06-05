@@ -80,6 +80,8 @@
   </url><url>
     <loc>//localhost:1313/sections/</loc>
   </url><url>
+    <loc>//localhost:1313/patterns/discover/user-interviews/</loc>
+  </url><url>
     <loc>//localhost:1313/patterns/basics/what-is-a-pattern/</loc>
   </url><url>
     <loc>//localhost:1313/authors/william-jacob/</loc>
