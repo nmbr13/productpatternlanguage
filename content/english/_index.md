@@ -27,9 +27,10 @@ features:
     image: "/images/service-2.png"
     content: "The Product Pattern Language is a resource for teams "
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Bullet 1"
+      - "Bullet 2"
+      - "Bullet 3"
+      - "Bullet 4"
     button:
       enable: false
       label: "Get Started Now"
@@ -39,10 +40,10 @@ features:
     image: "/images/service-3.png"
     content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Bullet 1"
+      - "Bullet 2"
+      - "Bullet 3"
+      - "Bullet 4"
     button:
       enable: false
       label: ""
