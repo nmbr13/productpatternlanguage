@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Discovery Patterns on Product Pattern Language</title>
+    <link>//localhost:1313/patterns/discovery/</link>
+    <description>Recent content in Discovery Patterns on Product Pattern Language</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/patterns/discovery/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

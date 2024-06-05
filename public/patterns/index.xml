@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patterns on Product Pattern Language</title>
+    <link>//localhost:1313/patterns/</link>
+    <description>Recent content in Patterns on Product Pattern Language</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/patterns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> What is a Pattern Language?</title>
+      <link>//localhost:1313/patterns/basics/what-is-a-pattern-language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/patterns/basics/what-is-a-pattern-language/</guid>
+      <description>That&amp;rsquo;s a great question in essence a pattern language is a series of solutions to common problems.</description>
+    </item>
+    <item>
+      <title>What is a Pattern?</title>
+      <link>//localhost:1313/patterns/basics/what-is-a-pattern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/patterns/basics/what-is-a-pattern/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

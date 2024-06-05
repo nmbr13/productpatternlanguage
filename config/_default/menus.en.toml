@@ -1,0 +1,59 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "What is a Pattern Language?"
+pageRef = "/patterns/basics/what-is-a-pattern-language"
+weight = 2
+
+
+[[main]]
+weight = 4
+name = "Explore Patterns"
+
+[[main]]
+parent = "Explore Patterns"
+name = "0 - Discover"
+pageRef = "/patterns/discover"
+
+[[main]]
+parent = "Explore Patterns"
+name = "1 - Analysis"
+pageRef = "/patterns/analyze"
+
+[[main]]
+parent = "Explore Patterns"
+name = "3 - Prioritize"
+pageRef = "/patterns/prioritize"
+
+[[main]]
+parent = "Explore Patterns"
+name = "4 - Brainstorm"
+pageRef = "/patterns/brainstorm"
+
+[[main]]
+parent = "Explore Patterns"
+name = "5 - Iterate"
+pageRef = "/patterns/iterate"
+
+[[main]]
+name = "About"
+pageRef = "/about"
+
+
+
+# footer menu
+# [[footer]]
+# name = "About"
+# pageRef = "/about"
+# weight = 1
+
+# [[footer]]
+# name = "Elements"
+# pageRef = "/elements"
+# weight = 2
+
+# [[footer]]
+# name = "Privacy Policy"
+# pageRef = "/privacy-policy"
+# weight = 3
