@@ -40,6 +40,10 @@ pageRef = "/patterns/iterate"
 name = "About"
 pageRef = "/about"
 
+[[main]]
+name = "Blog"
+pageRef = "/blog"
+
 
 
 # footer menu
