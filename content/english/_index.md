@@ -3,7 +3,7 @@
 banner:
   title: "A Product Design Pattern Language"
   content: "Design and Discovery Patterns for Product Professionals"
-  image: "/images/banner.png"
+  image: "/images/banner-HalGreenwood.jpg"
   button:
     enable: true
     label: "Get Started For Free"
